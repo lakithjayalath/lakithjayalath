@@ -10,37 +10,54 @@ Full-stack software engineer with 6+ years of building web and mobile applicatio
 * 🧠  I'm currently learning Kotlin Multiplatform
 
 <p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
-
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="margin-left:2px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" /></a>
-
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a>
-
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-
-<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a>
-
-<a href="https://angular.io/" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
-
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a>
-
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a>
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
-
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
-
-<a href="https://apple.com" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" style="margin-right:10px;" />
+</a>
+<a href="https://developer.apple.com/swift/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" style="margin-right:10px;" />
+</a>
+<a href="https://kotlinlang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" style="margin-right:10px;" />
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" style="margin-right:10px;" />
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="Bash" style="margin-right:10px;" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" style="margin-right:10px;" />
+</a>
+<a href="https://developer.apple.com/xcode/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" width="36" height="36" alt="Xcode" style="margin-right:10px;" />
+</a>
+<a href="https://angular.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" style="margin-right:10px;" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="margin-right:10px;" />
+</a>
+<a href="https://sass-lang.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" style="margin-right:10px;" />
+</a>
+<a href="https://docs.nestjs.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" style="margin-right:10px;" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" style="margin-right:10px;" />
+</a>
+<a href="https://nodejs.org/en/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" style="margin-right:10px;" />
+</a>
+<a href="https://apple.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" style="margin-right:10px;" />
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" style="margin-right:10px;" />
+</a>
+<a href="https://aws.amazon.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS" style="margin-right:10px;" />
+</a>
 </p>
 
 ### Socials
