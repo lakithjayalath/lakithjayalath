@@ -12,7 +12,7 @@ Full-stack software engineer with 6+ years of building web and mobile applicatio
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" /></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="margin-left:2px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" /></a>
 
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" style="margin-left:8px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a>
 
