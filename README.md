@@ -1,8 +1,5 @@
-Lakith Jayalath
+Lakith Jayalath 🥷
 ===============================================================================================================================
-
-FULL-STACK ENGINEER
--------------------
 
 Full-stack software engineer with 6+ years of building web and mobile applications. I write clean, modular code and deliver well-tested solutions on schedule, even under pressure. Whether tech shifts or critical bugs, I tackle them head-on. I embrace challenges, quickly adapt to new tech and industry trends.
 
