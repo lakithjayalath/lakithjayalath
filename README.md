@@ -49,15 +49,6 @@ Full-stack software engineer with 6+ years of building web and mobile applicatio
 <a href="https://aws.amazon.com" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS" style="margin-right:10px;" />
 </a>   
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" style="margin-right:10px;" />
-</a>
-<a href="https://developer.apple.com/xcode/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" width="36" height="36" alt="Xcode" style="margin-right:10px;" />
-</a>
-<a href="https://apple.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" style="margin-right:10px;" />
-</a>  
 </p>
 
 ### Socials
