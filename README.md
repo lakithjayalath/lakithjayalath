@@ -1,13 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Lakith
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===============================================================================================================================
 
 FULL-STACK ENGINEER
 -------------------
 
 Full-stack software engineer with 6+ years of building web and mobile applications. I write clean, modular code and deliver well-tested solutions on schedule, even under pressure. Whether tech shifts or critical bugs, I tackle them head-on. I embrace challenges, quickly adapt to new tech and industry trends.
-
-* 🌍  I'm based in Sri Lanka
-* 🧠  I'm currently learning Kotlin Multiplatform
 
 <p align="left">
 <a href="https://angular.io/" target="_blank">
